@@ -10,6 +10,7 @@
 
 <body>
     <h1>Test Bootstrap Icons From Node Modules</h1>
-</body>
 
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+</body>
 </html>
